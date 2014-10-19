@@ -4,16 +4,18 @@
 ## TEAM 
 
 Iain Watt
+
 David Morrison
+
 Robert McWilliam
 
 ## CHALLENGE 
 
-PUlling in FOI responses from various public body's disclosure logs so they can be searched and analysed. 
+Pulling in FOI responses from various public body's disclosure logs so they can be searched and analysed. 
 
 Iain Learmonth (and some others) worked on this at the last code the city and produced scrapers to get the high level data from Aberdeen City Council and East Lothian Council. That work is at https://github.com/irl/foiawiki 
 
-To take this forward we wanted to get the scrapers live again, add something to get the data out of the 
+To take this forward we wanted to get the scrapers live again, add something to get the text out of the actual response documents and look at putting in an interface to search/look at the data.  
 
 ## RESULTS
 
