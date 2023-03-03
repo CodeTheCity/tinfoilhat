@@ -29,7 +29,7 @@ We've got an OCR service that if given the URL of a PDF will respond with the te
 
 ## LINKS 
 
-Sate of play on Friday: http://10ml.com/2014/10/a-scotland-wide-foi-search-facility/
+Sate of play on Friday: http://watty62.co.uk/2014/10/a-scotland-wide-foi-search-facility/ [updated 2023!]
 
 Code from last time:
 https://github.com/irl/foiawiki
